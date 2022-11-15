@@ -7,17 +7,12 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰 𝐃𝐈𝐄𝐆𝐎 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
-  ['51993138466', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
-  ['573184314110', '🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰', true],
-  ['50246028932', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰', true],
-  ['51936767238'],
-  ['593968585383'],
-  ['584125778026']
+  ['593960841123', '🔰 kevin  - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
+
 
 ] 
-global.suittag = ['593959425714'] 
-global.mods = ['595986674310'] 
+global.suittag = ['593960841123'] 
+global.mods = ['593960841123'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
@@ -89,17 +84,17 @@ global.library = 'BAILEYS-MD'
 global.vs = '1.3.0'
 global.version = vs
 //------------- Sticker WM -----------
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = '(☞ﾟKﾟ)☞'
 global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
 global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
 global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h'
+global.md = 'https://chat.whatsapp.com/KjdcZlMJs8C6e43Pncr1oJ'
 global.dorramd = md
 
-global.yt = 'http://youtube.com/@diegogameplays82'
-global.youtube = yt
+global.yt = ''
+global.youtube =https://youtu.be/ARWg160eaX4 yt
 
 
 /* _____________________________________________ */
